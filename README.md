@@ -1,2 +1,2 @@
 #!/bin/bash
-learning vi
+learning v
